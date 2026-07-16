@@ -9,7 +9,7 @@
 # mind you mountify restores magic mount folder hierarchy!
 if [ "$KSU" = true ]; then
 	export KSU_HAS_METAMODULE="true"
-	export KSU_METAMODULE="mountify"
+	export KSU_METAMODULE="mountify4plato"
 fi
 
 if [ "$APATCH" = true ]; then
