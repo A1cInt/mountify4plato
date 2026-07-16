@@ -1,7 +1,8 @@
-id=mountify4plato
+id=mountify
 name=mountify4plato
 version=v2.0.3-plato
 versionCode=203
 author=xx, KOWX712, AlcInt
 metamodule=true
 description=Device-specific meta-module for Xiaomi 12T (Plato). Globally mounted modules via OverlayFS. 
+banner=banner.jpg
