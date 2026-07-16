@@ -15,7 +15,7 @@ mountify_mounts=2
 
 # fake mount name
 # mount folder name
-FAKE_MOUNT_NAME="mountify"
+FAKE_MOUNT_NAME="mountify4plato"
 
 # Test for decoy mounting.
 # This is meant for tmpfs mode.
@@ -88,7 +88,7 @@ sparse_size="2048"
 # 0 - disable
 # 1 - enable
 # NOTE: on KernelSU 22105+ this is handled on ksud
-enable_lkm_nuke=0
+enable_lkm_nuke=1
 lkm_filename="nuke.ko"
 
 # EOF
